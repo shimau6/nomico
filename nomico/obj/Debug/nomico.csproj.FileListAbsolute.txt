@@ -1,0 +1,9 @@
+C:\Users\shimau6\Source\Repos\niftyTesting\nomico\nomico\bin\Debug\nomico.exe.config
+C:\Users\shimau6\Source\Repos\niftyTesting\nomico\nomico\bin\Debug\nomico.exe
+C:\Users\shimau6\Source\Repos\niftyTesting\nomico\nomico\bin\Debug\nomico.pdb
+C:\Users\shimau6\Source\Repos\niftyTesting\nomico\nomico\obj\Debug\nomico.csprojResolveAssemblyReference.cache
+C:\Users\shimau6\Source\Repos\niftyTesting\nomico\nomico\obj\Debug\nomico.Form1.resources
+C:\Users\shimau6\Source\Repos\niftyTesting\nomico\nomico\obj\Debug\nomico.Properties.Resources.resources
+C:\Users\shimau6\Source\Repos\niftyTesting\nomico\nomico\obj\Debug\nomico.csproj.GenerateResource.Cache
+C:\Users\shimau6\Source\Repos\niftyTesting\nomico\nomico\obj\Debug\nomico.exe
+C:\Users\shimau6\Source\Repos\niftyTesting\nomico\nomico\obj\Debug\nomico.pdb
